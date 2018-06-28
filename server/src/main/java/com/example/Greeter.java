@@ -11,6 +11,9 @@ public class Greeter {
   public Greeter() {
 
   }
+  public Greeter(string greeName) {
+
+  }
 
   
   public String greet(String someone) {
